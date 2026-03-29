@@ -10,7 +10,7 @@ I build things, break things, and learn from both.
 - 🏫 Currently in high school
 - 🔐 Passionate about **cybersecurity** and how things work under the hood
 - 🚩 Competing in **CTFs** and writing up solutions to sharpen my skills
-- ⚙️ Building low-level projects in **C++** and scripting with **Python**
+- ⚙️ Building mid level projects in **C++** and scripting with **Python**
 - 🌐 Building my personal corner of the web at [prsro.github.io/personal-website](https://prsro.github.io/personal-website/)
 - 📍 Romania
 
@@ -34,6 +34,7 @@ I build things, break things, and learn from both.
 | [viitor-educat](https://github.com/PRSro/viitor-educat) | EdTech project — future of education | TypeScript |
 | [personal-website](https://github.com/PRSro/personal-website) | My personal site — career, projects & more | JavaScript |
 | CTF Writeups *(coming soon)* | Walkthroughs and solutions from CTF competitions | Markdown / Python / C++ |
+| Calculator in a file | A multi modal calculator TUI script | C++ |
 
 ---
 
@@ -47,6 +48,7 @@ I build things, break things, and learn from both.
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://prsro.github.io/personal-website/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PRSro)
+[![Discord](https://discord.com/users/1263420112812118059)
 
 ---
 
