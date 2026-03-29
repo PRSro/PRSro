@@ -48,7 +48,10 @@ I build things, break things, and learn from both.
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://prsro.github.io/personal-website/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PRSro)
-[![Discord](https://discord.com/users/1263420112812118059)
+
+---
+
+[Discord](https://discord.com/users/1263420112812118059)
 
 ---
 
