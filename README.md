@@ -34,6 +34,7 @@ I build things, break things, and learn from both.
 | [viitor-educat](https://github.com/PRSro/viitor-educat) | EdTech project — future of education | TypeScript |
 | [personal-website](https://github.com/PRSro/personal-website) | My personal site — career, projects & more | JavaScript |
 | CTF Writeups *(coming soon)* | Walkthroughs and solutions from CTF competitions | Markdown / Python / C++ |
+| Obscuron Cryptographic Suite | Multi Modular crypto, running locally, fast and reliable | C++, xml design, Qt |
 | Calculator in a file | A multi modal calculator TUI script | C++ |
 
 ---
