@@ -36,7 +36,7 @@ I build things, break things, and learn from both.
 | CTF Writeups *(coming soon)* | Walkthroughs and solutions from CTF competitions | Markdown / Python / C++ | ongoing |
 | Obscuron Cryptographic Suite | Multi Modular crypto, running locally, fast and reliable | C++, xml design, Qt | ongoing |
 | [Calculator](https://github.com/PRSro/Calc-Ult) | A multi modal calculator TUI script | C++ | 10-20 hours |
-| [Physics Engine](https://github.com/PRSro/OOP-Physics-Engine-Cpp) | A project intended to learn math+OOP, with a basic GUI | C++, SFML | ongoing |
+| [Physics Engine](https://github.com/PRSro/OOP-Physics-Engine-Cpp) | A project intended to learn math+OOP, with a basic GUI | C++, SFML | 10 hours |
 
 ---
 
