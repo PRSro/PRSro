@@ -34,7 +34,7 @@ I build things, break things, and learn from both.
 | [viitor-educat](https://github.com/PRSro/viitor-educat) | EdTech project — future of education | TypeScript | 1-2 months |
 | [personal-website](https://github.com/PRSro/personal-website) | My personal site — career, projects & more | JavaScript | 1 week |
 | CTF Writeups *(coming soon)* | Walkthroughs and solutions from CTF competitions | Markdown / Python / C++ | ongoing |
-| [Obscuron Cryptographic Toolkit](https://github.com/PRSro/Obscuron-Cryptograpic-toolkit) | Multi Modular crypto, running locally, fast and reliable | C++, xml design, Qt | ongoing |
+| [Obscuron Cryptographic Toolkit](https://github.com/PRSro/Obscuron-Cryptograpic-toolkit) | Multi Modular crypto, running locally, fast and reliable | C++, xml design, Qt | 199 hours |
 | [Calculator](https://github.com/PRSro/Calc-Ult) | A multi modal calculator TUI script | C++ | 10-20 hours |
 | [Physics Engine](https://github.com/PRSro/OOP-Physics-Engine-Cpp) | A project intended to learn math+OOP, with a basic GUI | C++, SFML | 10 hours |
 
